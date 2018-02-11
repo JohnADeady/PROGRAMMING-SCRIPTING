@@ -12,6 +12,7 @@ def fib(n):
     n = n - 1
  
   return i
+
 name = "Deady"
 first = name[0]
 last = name[-1]
