@@ -10,9 +10,8 @@ def fib(n):
   while n >= 0:
     i, j = j, i + j
     n = n - 1
-  
+ 
   return i
-
 name = "Deady"
 first = name[0]
 last = name[-1]
