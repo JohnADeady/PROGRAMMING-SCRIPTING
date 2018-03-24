@@ -16,7 +16,7 @@ while x > 1:                      # This is the while loop. This will run until 
     x = x // 2                    # If x is even this is divide by 2
     print(x)                      # Prints the result for x
  else:                            # This is else. Meaning if not an even number then it must be odd
-    x = 3x + 1                    # If odd then the code multiplies by 3 and adds 1
+    x = (3 * x) + 1               # If odd then the code multiplies by 3 and adds 1
     print(x)                      # Prints the result for x
 
     
