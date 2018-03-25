@@ -9,9 +9,9 @@
 
 Print ("welcome to Mad Libs")                           # Inspired by Summer Son’s Mad Libs project with Javascript
 
-adjective = input("Please input an adjective:")         # You will be prompted into an adjective
-noun = input ("Please input a noun:")                   # You will be prompted into an noun
-animal = input("Please input an animal:")               # You will be prompted into an animal
-noise = input ("Please input a noise:")                 # You will be prompted into an noise
+adjective = input("Please input an adjective:")         # You will be prompted to input an adjective
+noun = input ("Please input a noun:")                   # You will be prompted to input a noun
+animal = input("Please input an animal:")               # You will be prompted to input a animal
+noise = input ("Please input a noise:")                 # You will be prompted to input a noise
 
 print(adjective, "Macdougal", "had", "a", noun, noise)  # This will print out a line with your inputs
