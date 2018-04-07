@@ -4,9 +4,7 @@
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 # Adapted from https://projecteuler.net/problem=5
 # I have used stackflow in order to solve this problem. 
-# We take prime numbers only. Integers (6,8,9,10,12,15,20) are divisibles by 2,3 and 5.
-# We multiply all the prime numbers together to get 9,699,690
-# Then while loops calculates 24 for p.
+
 
 primes = [2,3,5,7,11,13,17,19]          # Let primes equal to the prime numbers up to 20.
 x = 1                                   # Let x = 1
