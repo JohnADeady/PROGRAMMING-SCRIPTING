@@ -1,6 +1,6 @@
 # Programming and Scritping Module 
 
-This repository contains assignments for semster one of Data Analytics from GMIT. There are a total of 11 programs where I will go into more detail below. The main purpose of these assignments is to understand and write programs using the [Python](https://www.python.org/). Python is an interpreted high-level programming language for general-purpose programming.(ref Wkipedia)
+This repository contains assignments for semster one of Data Analytics from GMIT. There are a total of 11 scripts where I will go into more detail below. The main purpose of these assignments is to understand and write programs using the [Python](https://www.python.org/) programming language. Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms (ref [Python Tutorial](https://docs.python.org/3/tutorial/))
 
 ## Getting Starting
 [Python](https://www.python.org/) is receommended to run these programs. In order to get started we must download [Anaconda](https://www.anaconda.com/download/) and then [VS Code](https://code.visualstudio.com/).
@@ -22,8 +22,10 @@ Step by sted guide for downloading [VS Code](https://code.visualstudio.com/)
 3. Follow the instructions on screen - unsure about settings accept the default settings.
 4. Once completed run a simple program 
 
+Once these programs have been downloaded, we can now start running each script on [VS Code](https://code.visualstudio.com/). Copy and paste each script from [Github](https://github.com/JohnADeady/PROGRAMMING-SCRIPTING) and follow the instructions for each assigment.
+
 ## Assignment One (Week 1: 22-01-2018 to 28-01-2018)
-Calculates the nth Fibonacci number.Fibonacci series is a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc.(ref Wikipedia). Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. Once you calculate the right Fibonacci number for your own name, please post it to the Discussions forum on this page as per my post there.
+Calculates the nth Fibonacci number.Fibonacci series is a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc.(ref Wikipedia). Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is John, so I should calculate the 24th Fibonacci number because J is 8 and n is 14, giving 24 in total. 
 
 
 ## Assignment Two (Week 2: 29-01-2018 to 04-02-2018)
@@ -33,7 +35,7 @@ Calculates the nth Fibonacci number.Fibonacci series is a series of numbers in w
 ## Assignment Three (Week 3: 05-02-2018 to 11-02-2018)
 The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined as follows: start with any positive integer n. Then each term is obtained from the previous term as follows: if the previous term is even, the next term is one half the previous term. Otherwise, the next term is 3 times the previous term plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1 (ref Wikipedia).
 
-A single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. You can specify in your code the starting value of 17. If you wish to enhance your program, have the program ask the user for the integer instead of specifying a value at the start of your code. Add the script to your GitHub repository, as per the instruction in the Assessments section.
+A single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. The program will ask the user for the integer instead of specifying a value at the start of your code. 
 
 
 ## Assignment Four (Week 5: 19-02-2018 to 25-02-2018)
@@ -70,6 +72,9 @@ The square of the sum of the first ten natural numbers is,(1 + 2 + ... + 10)2 = 
 #### Mad Libs Generator
 [Mad](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/) program will first prompt the user for a series of inputs a la Mad Libs. For example, a singular noun, an adjective, etc. Then, once all the information has been inputted, the program will take that data and place them into a premade story template. You’ll need prompts for user input, and to then print out the full story at the end with the input included.
 
+
+## Built With
+This repository contains Python code only.
 
 ## Licence
 This project is licensed under the Apache License 2.0
