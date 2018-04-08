@@ -10,6 +10,12 @@ This repository contains assignments for semster one of Data Analytics from GMIT
 [VS Code](https://code.visualstudio.com/). is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. (ref Wikipedia)
 
 #### Installing Downloads
+Step by sted guide for downloading [Python](https://www.python.org/)
+ 1. Open [Python](https://www.python.org/)
+ 2. Download version Python [3.6.5](https://www.python.org/downloads/)
+ 3. Follow the instructions on screen - unsure about settings accept the default settings.
+ 
+
 Step by sted guide for downloading [Anaconda](https://www.anaconda.com/download/):
 1. Open Anaconda Download
 2. Click Python 3.6 version
